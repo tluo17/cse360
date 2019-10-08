@@ -1,3 +1,6 @@
+//Tingyu Luo CSE360 Assignment 2
+//This is a adding machine to keep all the histroy of add
+//and subtract a value.
 package cse360assign2;
 
 public class AddingMachine {
